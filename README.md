@@ -96,4 +96,4 @@ To regenerate `data/dry_bean_raw.csv`, `test_data.csv`, and the files in `model/
 bottom (requires `pip install jupyter` in addition to `requirements.txt`).
 
 ## Live Streamlit App Link
-
+https://2026aj05825mlassignment.streamlit.app/
