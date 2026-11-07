@@ -79,7 +79,7 @@ dry-bean-classification/
 │   ├── label_encoder.joblib
 │   ├── feature_columns.joblib
 │   └── comparison_results.csv
-└── notebook/
+└── Source-Notebook/
     └── dry_bean_classification.ipynb   # EDA, training, evaluation
 ```
 
