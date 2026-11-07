@@ -1,6 +1,7 @@
 # Dry Bean Variety Classification — ML Assignment 2
 
 **Author:** Apurva Ajit Kulkarni (BITS ID 2026AJ05825)
+
 **Course:** BITS WILP M.Tech (AIML) — Machine Learning, Assignment 2
 
 ## a. Problem statement
@@ -27,7 +28,7 @@ uploaded test CSV using the already-trained models.
   for the Streamlit app demo.
 
 ## c. GitHub Repository Link
-https://github.com/ApurvaK24/2026AJ05825_ML_Assignmen
+https://github.com/ApurvaK24/2026AJ05825_ML_Assignment
 
 ## d. Models used
 
